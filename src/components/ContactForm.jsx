@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 
-const API_URL = "https://contact-backen-1.onrender.com/api/contact";
+const API_URL = "https://contact-backen-2.onrender.com/api/contact";
 
 const ContactForm = () => {
   const [name, setName] = useState("");
